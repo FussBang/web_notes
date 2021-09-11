@@ -1,2 +1,2 @@
-# web_notes
-Web Notes App
+# Web Notes App
+Python + Flask project
