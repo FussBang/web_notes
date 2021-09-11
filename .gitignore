@@ -1,2 +1,5 @@
 /venv
 /website/__pycache__
+*.py[cod]
+*$py.class
+/website/*.pyc
